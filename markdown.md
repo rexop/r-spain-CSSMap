@@ -1,6 +1,6 @@
 [Andalucía](/r/Andalucia "Andalucía")
 [Aragón](/r/AragonES "Aragón")
-[Principado de Asturias](/r/esAsturias "Principado de Asturias")
+[Principado de Asturias](/r/Asturias "Principado de Asturias")
 [Illes Balears](/r/IllesBalears "Illes Balears")
 [Canarias](/r/iCanarias "Canarias")
 [Cantabria](/r/Santander "Cantabria")
